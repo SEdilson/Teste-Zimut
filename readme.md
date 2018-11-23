@@ -3,7 +3,9 @@
 ## Stack
 
 0 - Laravel 5.7
+>
 1 - Bootstrap 4
+>
 2 - MySQL
 
 Para utilizar o MySQL eu instalei o [XAMPP](https://www.apachefriends.org/pt_br/index.html)
