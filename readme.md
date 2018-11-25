@@ -8,7 +8,11 @@
 >
 2 - MySQL
 
-Para utilizar o MySQL eu instalei o [XAMPP](https://www.apachefriends.org/pt_br/index.html)
+* Para utilizar o MySQL eu instalei o [XAMPP](https://www.apachefriends.org/pt_br/index.html)
+
+* Para consultar CEP eu utilizei a API do [Via CEP](https://viacep.com.br/)
+
+* Para gerar o UUID eu usei o [YourAppRocks](https://github.com/YourAppRocks/eloquent-uuid)
 
 ## Como Instalar
 
